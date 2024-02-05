@@ -38,7 +38,7 @@ Documentation: [English version](https://github.com/fscarmen2/Argo-Nezha-Service
 * 手/自一体还原备份 --- 每分钟检测一次在线还原文件的内容，遇到有更新立刻还原
 * 默认内置本机探针 --- 能很方便的监控自身服务器信息
 
-<img width="1609" alt="image" src="https://github.com/fscarmen2/Argo-Nezha-Service-Container/assets/92626977/c7f887b8-bbb8-4753-9333-461cb49656bb">
+<img width="1609" alt="image" src="https://github.com/fscarmen2/Argo-Nezha-Service-Container/assets/92626977/ecd9d887-68f0-46f9-9a63-eb0275f066eb">
 
 
 ## 准备需要用的变量

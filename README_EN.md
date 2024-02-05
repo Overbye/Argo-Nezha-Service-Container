@@ -38,7 +38,7 @@ Documentation: English version | [中文版](https://github.com/fscarmen2/Argo-N
 * Manual/automatic restore backup --- check the content of online restore file once a minute, and restore immediately when there is any update.
 * Default built-in local probes --- can easily monitor their own server information
 
-<img width="1609" alt="image" src="https://github.com/fscarmen2/Argo-Nezha-Service-Container/assets/92626977/c7f887b8-bbb8-4753-9333-461cb49656bb">
+<img width="1609" alt="image" src="https://github.com/fscarmen2/Argo-Nezha-Service-Container/assets/92626977/ecd9d887-68f0-46f9-9a63-eb0275f066eb">
 
 
 ## Prepare variables to be used
